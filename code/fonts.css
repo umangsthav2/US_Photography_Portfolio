@@ -1,0 +1,31 @@
+/* TANGERINE */
+@font-face
+{
+    font-family: TangerineR;
+    src: url(../assets/fonts/Tangerine/Tangerine-Regular.ttf);
+}
+
+@font-face
+{
+    font-family: TangerineB;
+    src: url(../assets/fonts/Tangerine/Tangerine-Bold.ttf);
+}
+
+/* POPPINS */
+@font-face
+{
+    font-family: PoppinsBO;
+    src: url(../assets/fonts/Poppins/POPPINS-BOLD.TTF);
+}
+
+@font-face
+{
+    font-family: PoppinsSBO;
+    src: url(../assets/fonts/Poppins/POPPINS-SEMIBOLD.TTF);
+}
+
+@font-face
+{
+    font-family: PoppinsR;
+    src: url(../assets/fonts/Poppins/POPPINS-REGULAR.TTF);
+}
