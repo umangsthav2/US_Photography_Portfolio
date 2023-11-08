@@ -1,6 +1,12 @@
 @import url("fonts.css");
 @import url("animation.css");
 
+::selection
+    {
+        color:rgb(32, 32, 32);
+        background-color: white;
+    }
+
 html,body
     {
         margin:0;
