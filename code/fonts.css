@@ -29,3 +29,11 @@
     font-family: PoppinsR;
     src: url(../assets/fonts/Poppins/POPPINS-REGULAR.TTF);
 }
+
+
+
+/* FONTS CDN */
+
+
+/* TECHNOLOGY FONT */
+@font-face{font-family:technology;font-style:normal;font-weight:400;src:local('Technology'),url(https://fonts.cdnfonts.com/s/18708/Technology.woff) format('woff')}@font-face{font-family:technology;font-style:normal;font-weight:400;src:local('Technology'),url('https://fonts.cdnfonts.com/s/18708/Technology Italic.woff') format('woff')}@font-face{font-family:technology;font-style:normal;font-weight:700;src:local('Technology'),url('https://fonts.cdnfonts.com/s/18708/Technology Bold Italic.woff') format('woff')}@font-face{font-family:technology;font-style:normal;font-weight:700;src:local('Technology'),url('https://fonts.cdnfonts.com/s/18708/Technology Bold.woff') format('woff')}
