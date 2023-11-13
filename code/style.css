@@ -285,6 +285,12 @@ html,body
         transition: 0.25s;
     }
 
+#featured_imgs img:hover
+    {
+        transform: scale(105%);
+        border:2px solid white
+    }
+
 
 
 
